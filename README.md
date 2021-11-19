@@ -1,6 +1,7 @@
 # botfb
 Bot facebook
 
+Login via cookies
 
 ![Screenshot_20211119-043532652~2](https://user-images.githubusercontent.com/52388234/142574610-bb9ce368-a2b6-4502-89c9-c87bd35c8acb.jpg)
 
