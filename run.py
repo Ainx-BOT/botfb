@@ -39,7 +39,7 @@ def baner():
 {d}Donate   : {g}https://saweria.co/FahmiDevs
 {d}Message  : {g}https://wa.me/62881024612817
 {d}Restapi  : {g}https://ainxbot-id.herokuapp.com
-{d}Youtube  : {g}https://youtube.com/FahmiDev
+{d}Youtube  : {g}https://youtube.com/KuhakuTermux
 {d}Github   : {g}https://github.com/Ainx-BOT
 {d}Facebook : {g}https://facebook.com/kang.ngeue.313
 \033[90m----------------------------------------------{d}''')
