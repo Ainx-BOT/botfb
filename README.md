@@ -20,13 +20,8 @@ $pip install requests bs4 futures
 
 $python run.py
 
-# cara ambil cookies
-Install kiwi browser : https://play.google.com/store/apps/details?id=com.kiwibrowser.browser
-buka apk nya cari cdn header & cookie di chrome web store kiwi browsernya
-Install kalo udh buka mbasic facebook login klik titik tiga pojok kanan atas
-Scroll ke bawah klik cdn header & cookie salin bagian cookie nya
-Tempel di script nya kalo udh jangan di logout fb nya biarin aja
-Kalo ddi logout ke hapus session cookie nya 
+# get cookies facebook
+https://www.youtube.com/watch?v=wq-8mVtK_V4
 
 # jangan di perjual belikan kimak:v
 # dan jangan lupa kasih bintang oke!
