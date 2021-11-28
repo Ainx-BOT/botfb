@@ -12,6 +12,8 @@ Bot facebook Login via cookies
 
 -find 100++ username/id people
 
+-proses lebih cepat
+
 # cara install
 $pkg update && pkg upgrade
 
