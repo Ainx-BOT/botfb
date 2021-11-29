@@ -3,7 +3,7 @@ Bot facebook Login via cookies
 
 ![Screenshot_20211128-175350240~2](https://user-images.githubusercontent.com/52388234/143765212-69574e84-89ee-4c61-9466-f1c207f4a822.jpg)
 
-# Update fitur
+# Update tambahan fitur
 -spam react in group
 
 -spam comment in group
