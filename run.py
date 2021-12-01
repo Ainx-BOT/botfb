@@ -67,9 +67,6 @@ def ug():
         ua=open("useragent").read()
     except FileNotFoundError:
         ua=input(f"{pr}Useragent : {c}")
-        if ua == "":
-           print(f"{er}Masukin useragent lu coeg")
-           ug()
     with open("useragent","w") as u:
          u.write(ua)
     return ua
@@ -78,9 +75,6 @@ def login():
         cokie=open("cookies").read()
     except FileNotFoundError:
         cokie=input(f"{pr}Cookies : {c}")
-        if cokie == "":
-           print(f"{er}Masukin cookies fb lu coeg")
-           login()
     cokie={"cookie":cokie}
     log=ses.get(mbasic.format("/me"),cookies=cokie).text
     if "mbasic_logout_button" in log:
@@ -839,8 +833,8 @@ if __name__=="__main__":
     ua=ug()
     ses.headers.update({"Host":"mbasic.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":ua,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3","referer":"https://mbasic.facebook.com/","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
     try:
-        log=login()
-        cokie={"cookie":log}
+        ck=login()
+        cokie={"cookie":ck}
         menu()
     except Exception as e:
         sys.exit(f"{er}{e}")
