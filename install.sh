@@ -5,7 +5,7 @@ pkg install x11-repo -y
 pkg update && pkg upgrade -y
 pkg install git python -y
 termux-setup-storage -y
-git clone https://github.com/Ainx-BOT/fblf
-cd fblf
+git clone https://github.com/Ainx-BOT/botfb
+cd botfb
 pip install -r requirements.txt
 python run.py
