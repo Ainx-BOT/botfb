@@ -9,5 +9,6 @@ pkg install curl -y
 termux-setup-storage -y
 git clone https://github.com/Ainx-BOT/fblf
 cd fblf
+pip install --upgrade pip
 pip install -r requirements.txt
 python run.py
