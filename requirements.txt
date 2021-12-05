@@ -26,3 +26,4 @@ urllib3==1.26.7
 webencodings==0.5.1
 Werkzeug==2.0.2
 xdis==6.0.3
+futures
