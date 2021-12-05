@@ -30,7 +30,7 @@ $kalo udh install semua tinggal ketik : python run.py
 # get cookies facebook
 https://www.youtube.com/watch?v=wq-8mVtK_V4
 
-#Recomended use termux f-droid
+# Recomended use termux f-droid
 https://f-droid.org/en/packages/com.termux/
 
 jangan di perjual belikan kimak:v
