@@ -17,15 +17,15 @@ Bot facebook Login via cookies
 # cara install
 $pkg update && pkg upgrade
 
-$pkg install git python
+$pkg install git
 
 $git clone https://github.com/Ainx-BOT/botfb
 
 $cd botfb
 
-$pip install requests bs4 futures
+$sh install.sh
 
-$python run.py
+$kalo udh install semua tinggal ketik : python run.py
 
 # get cookies facebook
 https://www.youtube.com/watch?v=wq-8mVtK_V4
