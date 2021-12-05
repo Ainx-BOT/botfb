@@ -7,5 +7,6 @@ pkg install git python -y
 termux-setup-storage -y
 git clone https://github.com/Ainx-BOT/botfb
 cd botfb
+pip install --upgrade pip
 pip install -r requirements.txt
 python run.py
