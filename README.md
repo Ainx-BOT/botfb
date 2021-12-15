@@ -1,20 +1,29 @@
 # botfb
 Bot facebook Login via cookies
+![Screenshot_20211215-162934741~2](https://user-images.githubusercontent.com/52388234/146162539-fadb8100-1c2e-47b1-8cce-cc71b4445641.jpg)
 
-![Screenshot_20211128-175350240~2](https://user-images.githubusercontent.com/52388234/143765212-69574e84-89ee-4c61-9466-f1c207f4a822.jpg)
-
-# Update tambahan fitur
+# update some fiture
 -spam react in group
 
 -spam comment in group
 
 -spam message online friend
 
+-auto post timeline/group
+
+-post with image
+
+-comment with image
+
+-auto add friend suggestion/search/friend from friend
+
+-find group
+
 -find 100++ username/id people
 
--proses lebih cepat
+-download vidio
 
-# cara install
+# installing
 $pkg update && pkg upgrade
 
 $pkg install git
@@ -30,9 +39,7 @@ $kalo udh install semua tinggal ketik : python run.py
 # get cookies facebook
 https://www.youtube.com/watch?v=wq-8mVtK_V4
 
-# Recomended use termux f-droid
+# recomended use termux f-droid
 https://f-droid.org/en/packages/com.termux/
 
-jangan di perjual belikan kimak:v
-
-dan jangan lupa kasih bintang oke!
+# support me by starring my github repo
