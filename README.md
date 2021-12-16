@@ -56,8 +56,9 @@
 > kalo udh install semua tinggal ketik : python3 run.py
 
 
-# recomended use termux f-droid
+<p>recomended use termux f-droid
+
 https://f-droid.org/en/packages/com.termux/
+</p>
 
-
-<h5 style="font-family:courier new;font-size:50px;color:whitesmoke;">support me by starring my github repo</h5>
+<h5 style="font-family:courier new;font-size:100px;color:whitesmoke;">support me by starring my github repo</h5>
