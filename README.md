@@ -1,5 +1,5 @@
 # botfb
-Bot facebook Login via cookies
+Bot facebook Login with user&pw
 ![Screenshot_20211215-162934741~2](https://user-images.githubusercontent.com/52388234/146162539-fadb8100-1c2e-47b1-8cce-cc71b4445641.jpg)
 
 # update some fiture
@@ -36,8 +36,6 @@ $sh install.sh
 
 $kalo udh install semua tinggal ketik : python run.py
 
-# get cookies facebook
-https://www.youtube.com/watch?v=wq-8mVtK_V4
 
 # recomended use termux f-droid
 https://f-droid.org/en/packages/com.termux/
