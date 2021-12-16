@@ -55,7 +55,7 @@
 
 > kalo udh install semua tinggal ketik : python3 run.py
 
-
+<hr>
 > termux f-droid
 
 https://f-droid.org/en/packages/com.termux/
