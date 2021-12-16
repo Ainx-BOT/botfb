@@ -2,11 +2,11 @@
 Bot facebook Login cookies
 ![Screenshot_20211215-162934741~2](https://user-images.githubusercontent.com/52388234/146162539-fadb8100-1c2e-47b1-8cce-cc71b4445641.jpg)
 
-# requirements
-<div style="color:whitesmoke;padding:5px;margin:5px;">
->-requests
+#Requirements
 
->-requests-toolbelt
+> python 3.10.0
+
+> bs4
 
 >-colorama
 
