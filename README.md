@@ -65,4 +65,4 @@ http canary
 https://m.apkpure.com/id/httpcanary-%E2%80%94-http-sniffer-capture-analysis/com.guoshi.httpcanary/amp
 </p>
 
-<h1 style="font-family:courier new;font-size:60px;color:whitesmoke;">support me by starring my github repo</h1>
+     > support me by starring my github repo
