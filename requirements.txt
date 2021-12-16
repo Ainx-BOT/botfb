@@ -1,17 +1,6 @@
-beautifulsoup4
 bs4
-cached-property
-certifi
-charset-normalizer
-click
 colorama
-idna
-itsdangerous
-pycurl
 requests
 requests-toolbelt
-soupsieve
-spark-parser
 urllib3
-webencodings
 futures
