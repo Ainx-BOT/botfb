@@ -55,13 +55,15 @@
 
 > kalo udh install semua tinggal ketik : python3 run.py
 
-<hr>
-> termux f-droid
+
+<ul>
+<li>termux f-droid</li>
 
 https://f-droid.org/en/packages/com.termux/
 
-> http canary
+<li>http canary</li>
 
 https://m.apkpure.com/id/httpcanary-%E2%80%94-http-sniffer-capture-analysis/com.guoshi.httpcanary/amp
 
+</ul>
 <h3>support me by starring my github repo</h3>
