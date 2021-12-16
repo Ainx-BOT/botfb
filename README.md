@@ -36,6 +36,8 @@ $sh install.sh
 
 $kalo udh install semua tinggal ketik : python run.py
 
+# Note
+For those whose Facebook uses 2-factor authentication, disable it first before using this tool 
 
 # recomended use termux f-droid
 https://f-droid.org/en/packages/com.termux/
