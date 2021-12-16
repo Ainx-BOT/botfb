@@ -1,12 +1,18 @@
 #Mau ngapain? recode doang ga ngasih bintang ampass!
-import os,sys,time,requests,re,random,string
+import os,sys,time,re,random,string
 from time import sleep
-from bs4 import BeautifulSoup as bs
-from concurrent.futures import ThreadPoolExecutor
-from parsing import *
-from colorama import init, Fore
-from requests_toolbelt import MultipartEncoder
-from urllib.parse import unquote
+try:
+   import requests
+   from bs4 import BeautifulSoup as bs
+   from concurrent.futures import ThreadPoolExecutor
+   from parsing import *
+   from colorama import init, Fore
+   from requests_toolbelt import MultipartEncoder
+   from urllib.parse import unquote
+except ImportError:
+   print("Installing module...")
+   os.system(("python" if os.name == "nt" else "python3") + " -m pip install requests bs4 colorama urllib3 futures requests-toolbelt")
+   exit("try again use: python3 run.py or python run.py")
 """
 Project : Bot Facebook
 Author  : FahmiApz
