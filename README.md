@@ -1,57 +1,61 @@
 # botfb
 Bot facebook Login cookies
+<img style="width:20px">
 ![Screenshot_20211215-162934741~2](https://user-images.githubusercontent.com/52388234/146162539-fadb8100-1c2e-47b1-8cce-cc71b4445641.jpg)
 
-#Requirements
+</img>
 
-> python 3.10.0
+# requirements
+<ul>
+<li>python 3.10.0</li>
+<li>bs4</li>
+<li>colorama</li>
+<li>requests</li>
+<li>futures</li>
+<li>requests-toolbelt</li>
+</ul>
 
-> bs4
-
->-colorama
-
->-bs4
-
->-futures
-</div>
 # update some fiture
--spam react in group
 
--spam comment in group
+> spam react in group
 
--spam message online friend
+> spam comment in group
 
--auto post timeline/group
+> spam message online friend
 
--post with image
+> auto post timeline/group
 
--comment with image
+> post with image
 
--auto add friend suggestion/search/friend from friend
+> comment with image
 
--find group
+> auto add friend suggestion/search/friend from friend
 
--find 100++ username/id people
+> find group
 
--download vidio
+> find 100++ username/id people
+
+> download vidio
 
 # installing
-$pkg update && pkg upgrade
 
-$pkg install git
+> pkg update && pkg upgrade
 
-$git clone https://github.com/Ainx-BOT/botfb
+> pkg install git
 
-$cd botfb
+> git clone https://github.com/Ainx-BOT/botfb
 
-$sh install.sh
+> cd botfb
 
-$kalo udh install semua tinggal ketik : python3 run.py
+> sh install.sh
+
+> kalo udh install semua tinggal ketik : python3 run.py
+
 
 # Note
-For those whose Facebook uses 2-factor authentication, disable it first before using this tool 
+<p>For those whose Facebook uses 2-factor authentication, disable it first before using this tool.</p>
 
 # recomended use termux f-droid
 https://f-droid.org/en/packages/com.termux/
 
-# support me by starring my github repo
+<h5 style="font-family:courier new">support me by starring my github repo</h5>
