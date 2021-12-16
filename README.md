@@ -3,15 +3,16 @@ Bot facebook Login cookies
 ![Screenshot_20211215-162934741~2](https://user-images.githubusercontent.com/52388234/146162539-fadb8100-1c2e-47b1-8cce-cc71b4445641.jpg)
 
 # requirements
-> -requests
+>-requests
 
-> -requests-toolbelt
+>-requests-toolbelt
 
-> -colorama
+>-colorama
 
-> -bs4
+>-bs4
 
-> -futures
+>-futures
+
 # update some fiture
 -spam react in group
 
