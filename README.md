@@ -1,9 +1,8 @@
 # botfb
-Bot facebook Login cookies
-<img style="width:20px">
+          Bot facebook Login cookies
+
 ![Screenshot_20211215-162934741~2](https://user-images.githubusercontent.com/52388234/146162539-fadb8100-1c2e-47b1-8cce-cc71b4445641.jpg)
 
-</img>
 
 # requirements
 <ul>
@@ -13,29 +12,33 @@ Bot facebook Login cookies
 <li>requests</li>
 <li>futures</li>
 <li>requests-toolbelt</li>
+<li>urllib3</li>
 </ul>
 
 # update some fiture
+<ul>
 
-> spam react in group
+<li> spam react in group</li>
 
-> spam comment in group
+<li> spam comment in group</li>
 
-> spam message online friend
+<li> spam message online friend</li>
 
-> auto post timeline/group
+<li> auto post timeline/group</li>
 
-> post with image
+<li> post with image</li>
 
-> comment with image
+<li> comment with image</li>
 
-> auto add friend suggestion/search/friend from friend
+<li> auto add friend suggestion/search/friend from friend</li>
 
-> find group
+<li> find group</li>
 
-> find 100++ username/id people
+<li> find 100++ username/id people</li>
 
-> download vidio
+<li> download vidio</li>
+
+</ul>
 
 # installing
 
@@ -52,10 +55,8 @@ Bot facebook Login cookies
 > kalo udh install semua tinggal ketik : python3 run.py
 
 
-# Note
-<p>For those whose Facebook uses 2-factor authentication, disable it first before using this tool.</p>
-
 # recomended use termux f-droid
 https://f-droid.org/en/packages/com.termux/
 
-<h5 style="font-family:courier new">support me by starring my github repo</h5>
+
+<h5 style="font-family:courier new;font-size:50px;color:whitesmoke;">support me by starring my github repo</h5>
