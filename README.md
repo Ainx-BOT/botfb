@@ -34,7 +34,7 @@ $cd botfb
 
 $sh install.sh
 
-$kalo udh install semua tinggal ketik : python run.py
+$kalo udh install semua tinggal ketik : python3 run.py
 
 # Note
 For those whose Facebook uses 2-factor authentication, disable it first before using this tool 
