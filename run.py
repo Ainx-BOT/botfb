@@ -70,13 +70,13 @@ def cblg():
 
 def login():
     try:
-        ck=open("cookies").read()
+        ck=open("cookies.txt","r").read()
     except FileNotFoundError:
         ck=input(f"{er}Put your cookies\n{pr} {ab}>>> {rgb}")
     cokie={"cookie":ck}
     log=ses.get(mbasic.format("/me"),cookies=cokie).text
     if "mbasic_logout_button" in log:
-        with open("cookies.txt","r").read() as ex:
+        with open("cookies.txt","w") as ex:
             ex.write(cokie["cookie"])
         try:
             bhs=bs(log,"html.parser").find("form",action=lambda x: "/intl/save_locale/?loc=id_ID" in x)
