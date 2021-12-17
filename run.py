@@ -411,7 +411,7 @@ def add(url):
 def menu():
     baner()
     userinfo()
-    print(f"{rgb}01{ab}. {W}spam react\n{rgb}02{ab}. {W}spam comment\n{rgb}03{ab}. {W}spam message\n{rgb}04{ab}. {W}auto accept request friend\n{rgb}05{rgb}. {W}auto reject request friend\n{rgb}06{ab}. {W}auto unadd not unfriend\n{rgb}07{ab}. {W}auto unfriend\n{rgb}08{ab}. {W}auto delete message\n{rgb}09{ab}. {W}auto delete post\n{rgb}10{ab}. {W}auto post\n{rgb}11{ab}. {W}auto add friend\n{rgb}12{ab}. {W}find group\n{rgb}13{ab}. {W}find people\n{rgb}14{ab}. {W}download vidio\n{rgb}15{ab}. {W}remove cookies & useragent\n{rgb}00{ab}. {W}exit\n{ab}-----------------------------------------------")
+    print(f"{rgb}01{ab}. {W}spam react\n{rgb}02{ab}. {W}spam comment\n{rgb}03{ab}. {W}spam message\n{rgb}04{ab}. {W}auto accept request friend\n{rgb}05{rgb}. {W}auto reject request friend\n{rgb}06{ab}. {W}auto unadd not unfriend\n{rgb}07{ab}. {W}auto unfriend\n{rgb}08{ab}. {W}auto delete message\n{rgb}09{ab}. {W}auto delete post\n{rgb}10{ab}. {W}auto post\n{rgb}11{ab}. {W}auto add friend\n{rgb}12{ab}. {W}find group\n{rgb}13{ab}. {W}find people\n{rgb}14{ab}. {W}download vidio\n{rgb}15{ab}. {W}remove cookies\n{rgb}00{ab}. {W}exit\n{ab}-----------------------------------------------")
     pilih_menu()
 
 def pilih_menu():
@@ -579,7 +579,6 @@ def pilih_menu():
     elif choice == "15":
        print(f"{er}Please Waiting...")
        os.system("rm cookies")
-       os.system("rm useragent")
        ses.headers.clear()
        sleep(1)
        print(f"{dn}Done.")
