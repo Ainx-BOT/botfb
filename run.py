@@ -116,7 +116,7 @@ def login():
            pass
         try:
            name=bs(log,"html.parser").find("title").text
-           id = bs(hm,"html.parser").find("a", href = lambda x:"/allactivity" in x)["href"]
+           id = bs(log,"html.parser").find("a", href = lambda x:"/allactivity" in x)["href"]
            id = re.search(r"/\d+/?", id).group().replace("/", "")
         except:
            name=None
