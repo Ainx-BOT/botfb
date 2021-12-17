@@ -55,7 +55,9 @@
 
 > kalo udh install semua tinggal ketik : python3 run.py
 
+# note
 
+<p>Please disable 2-factor authentication first before using this tool</p>
 
 # termux f-droid
 
