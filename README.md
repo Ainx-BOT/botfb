@@ -64,5 +64,8 @@ https://f-droid.org/en/packages/com.termux/
 
 https://m.apkpure.com/id/httpcanary-%E2%80%94-http-sniffer-capture-analysis/com.guoshi.httpcanary/amp
 
+# tutorial get cookies
+
+https://youtu.be/wq-8mVtK_V4
 
 <h3>support me by starring my github repo</h3>
