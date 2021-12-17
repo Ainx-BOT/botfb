@@ -1,6 +1,6 @@
 # botfb
 
-       Bot facebook Login user&pass
+       Bot facebook Login cookies
 
 ![Screenshot_20211215-162934741~2](https://user-images.githubusercontent.com/52388234/146162539-fadb8100-1c2e-47b1-8cce-cc71b4445641.jpg)
 
@@ -55,15 +55,12 @@
 
 > kalo udh install semua tinggal ketik : python3 run.py
 
-# note
-
-<p>Please disable 2-factor authentication first before using this tool</p>
 
 # termux f-droid
 
 https://f-droid.org/en/packages/com.termux/
 
-# http canary to get useragent
+# http canary to get cookies
 
 https://m.apkpure.com/id/httpcanary-%E2%80%94-http-sniffer-capture-analysis/com.guoshi.httpcanary/amp
 
